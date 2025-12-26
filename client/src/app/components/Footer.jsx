@@ -98,7 +98,7 @@ const Footer = () => {
             Contact Us
           </h1>
           <p className="font-sourceSans text-[16px] font-normal">
-            66 Central Road, Dartford DA1 5, UN
+          21 Hever Lane, Stone Greenhithe DA9 9TQ
           </p>
           <div>
             <h3 className="font-openSans text-[16px] font-bold">

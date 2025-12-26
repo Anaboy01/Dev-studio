@@ -101,7 +101,7 @@ const Services = () => {
       animationData: contentWrite,
       width: 271,
       height: 296.66,
-      title: "Content Writing",
+      title: "Smart Contract Development",
       size: "text-[24px]",
       adjust: "left-[-30px]",
     },
